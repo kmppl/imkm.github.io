@@ -1280,7 +1280,7 @@ strong {
   }
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 460px) {
   h1 {
     font-size: 40px;
   }
@@ -1323,7 +1323,7 @@ strong {
     min-width: inherit;
   }
   .profile-body p{
-    font-size: 10px;
+    font-size: 9px;
   }
   
 }
@@ -1333,9 +1333,9 @@ strong {
   }
   
 }
-@media screen and (max-width: 370px) {
+@media screen and (min-width: 360px) {
   .profile-body p{
-    font-size: 10px;
+    font-size: 9px;
   }
 }
 
